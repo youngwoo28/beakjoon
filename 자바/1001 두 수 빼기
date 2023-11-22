@@ -1,0 +1,15 @@
+package 백준문제풀기;
+
+가져오기 java.util.*;
+
+public class 문제1 {
+
+공개 정적 무효 메인 (문자열 [] 인수) {
+스캐너 s = 새 스캐너(System.in);
+정수 a = s.nextInt();
+int b = s.nextInt()를 호출합니다.
+		
+System.out.println (ab)을 사용합니다.
+	}
+
+}
